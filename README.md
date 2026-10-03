@@ -1,7 +1,7 @@
 <div>
   <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Illustration" width="250"/>
 
-  <h1>Hi 👋, I'm Wagner.</h1>
+  <h3>Hi 👋, I'm Wagner.</h3>
 
   <strong>Software Developer</strong>
   
